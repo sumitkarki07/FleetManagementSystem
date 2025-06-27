@@ -17,18 +17,24 @@ This is a simple Java-based console application that simulates a basic Fleet Man
 ##  How to Run
 
 1. **Clone this repository:**
+   ```bash
    git clone https://github.com/sumitkarki07/FleetManagementSystem.git
-   
+   ```
 
 2. **Navigate into the project folder:**
+   ```bash
    cd FleetManagementSystem/src
-   
+   ```
 
 3. **Compile the Java files:**
+   ```bash
    javac Main.java Truck.java FleetManager.java
+   ```
 
 4. **Run the program:**
+   ```bash
    java Main
+   ```
 
 ---
 
