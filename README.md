@@ -51,7 +51,7 @@ FleetManagementSystem/
 
 ---
 
-## 🧠 Technologies & Concepts Used
+##  Technologies & Concepts Used
 
 - Core Java (Java SE)  
 - Object-Oriented Programming (OOP)  
