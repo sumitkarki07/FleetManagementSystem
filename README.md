@@ -17,7 +17,7 @@ This is a simple Java-based console application that simulates a basic Fleet Man
 ##  How to Run
 
 1. **Clone this repository:**
-   git clone https://github.com/your-username/FleetManagementSystem.git
+   git clone https://github.com/sumitkarki07/FleetManagementSystem.git
    
 
 2. **Navigate into the project folder:**
